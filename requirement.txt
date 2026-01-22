@@ -1,0 +1,9 @@
+pandas
+numpy
+matplotlib
+seaborn
+wbdata
+fredapi
+scipy
+statsmodels
+jupyter
